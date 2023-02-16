@@ -1,3 +1,3 @@
-# validacao-cpf-python
-# validacao-cpf-python
-# validacao-cpf-python
+Validação de cpf com python
+
+O algoritmo de validação do CPF calcula o primeiro dígito verificador a partir dos 9 primeiros dígitos do CPF, e em seguida, calcula o segundo dígito verificador a partir dos 9 (nove) primeiros dígitos do CPF, mais o primeiro dígito, obtido na primeira parte.
